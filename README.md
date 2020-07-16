@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 >💬 Ask me about anything 😛
-![](Images/Base.png)
+![Banner](Images/Base.png)
 
 
 <!--
