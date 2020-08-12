@@ -1,7 +1,6 @@
 ### Hi there 👋
-
->💬 Ask me about anything 😛
 ![Banner](Images/Base.png)
+>💬 Ask me about anything 😛
 
 
 <!--
