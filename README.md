@@ -10,7 +10,7 @@ Feel free to text me on Instagram for any conversations
 Contact me here anytime:
 <span>
 <a href="https://www.instagram.com/akhilmn18/">
-  <img align="left" alt="Akhils's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Akhils's Instagram" width="30px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
 </a>
 </span>
 
