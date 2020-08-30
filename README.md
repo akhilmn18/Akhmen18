@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](/Images/Base.png)
+![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Images/Base.png)
 >💬 Ask me about anything 😛
 
 
