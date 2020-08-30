@@ -8,9 +8,16 @@ Feel free to text me on Instagram for any conversations ✌
 <em><b><p>
 
 ### Contact me here anytime,
-<a href="https://www.instagram.com/akhilmn18/">
-  <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
-</a>
+<span>
+  <a href="https://www.instagram.com/akhilmn18/">
+    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
+  </a>
+</span>
+<span>
+  <a href="https://twitter.com/akhilmen18/">
+    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/twitter.png" />
+  </a>
+</span>
 
 
 <br>
