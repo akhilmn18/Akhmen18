@@ -14,11 +14,12 @@ Contact me here anytime,
 </a>
 
 
-<p>
-Icon I used here made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> <p>
-
 [![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+<div opacity=0.5>
+    <p style="font-size:10px>
+    Icon I used here made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> <p>
+</div>
 <!--
 **Akhmen18/Akhmen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
