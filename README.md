@@ -1,7 +1,13 @@
 ### Hi there 👋
 ![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Images/Base.png)
->💬 Ask me about anything 😛
 
+<p> <b> I'm a Technology Enthusiast, trying to decide what to in life. I used to make Custom Roms for Moto G2 and the G5 Plus. Now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart. 
+I also make random vector wallpapers as they seem aesthetically pleasing ❤
+Conversations are my forte (Basically I love talking and listening to new and interesting stuff😜)
+<b><p>
+
+
+[![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Akhmen18/Akhmen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
