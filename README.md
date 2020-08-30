@@ -12,6 +12,7 @@ Feel free to text me on Instagram for any conversations ✌
   <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
 </a>
 
+
 <br>
 <br>
 
@@ -21,7 +22,7 @@ Feel free to text me on Instagram for any conversations ✌
 
 <div opacity=0.5>
     <p style="font-size:5px">
-    Icon I used here made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> <p>
+    Icon I used here made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> , <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> <p>
 </div>
 <!--
 **Akhmen18/Akhmen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
