@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](Images/Base.png)
+![Banner](/Images/Base.png)
 >💬 Ask me about anything 😛
 
 
