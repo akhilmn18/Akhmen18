@@ -12,6 +12,8 @@ Contact me here anytime,
 <a href="https://www.instagram.com/akhilmn18/">
   <img width="40px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
 </a>
+
+<br>
 <br>
 
 [![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
