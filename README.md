@@ -9,7 +9,7 @@ Feel free to text me on Instagram for any conversations
 
 ### Contact me here anytime,
 <a href="https://www.instagram.com/akhilmn18/">
-  <img width="20px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
+  <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
 </a>
 
 <br>
