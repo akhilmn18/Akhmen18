@@ -17,7 +17,7 @@ Contact me here anytime,
 [![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <div opacity=0.5>
-    <p style="font-size:10px>
+    <p style="font-size:5px">
     Icon I used here made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> <p>
 </div>
 <!--
