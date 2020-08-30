@@ -4,8 +4,15 @@
 <p> <b> I'm a Technology Enthusiast, trying to decide what to in life. I used to make Custom Roms for Moto G2 and the G5 Plus. Now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart. 
 I also make random vector wallpapers as they seem aesthetically pleasing ❤
 Conversations are my forte (Basically I love talking and listening to new and interesting stuff😜)
+Feel free to text me on Instagram for any conversations
 <b><p>
 
+Contact me here anytime:
+<span>
+<a href="https://www.instagram.com/akhilmn18/">
+  <img align="left" alt="Akhils's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</span>
 
 [![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
