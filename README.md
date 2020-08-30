@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Images/Base.png)
 
 <p> <b> I'm a Technology Enthusiast, trying to decide what to in life. I used to make Custom Roms for Moto G2 and the G5 Plus. Now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart. 
@@ -7,8 +7,7 @@ Conversations are my forte (Basically I love talking and listening to new and in
 Feel free to text me on Instagram for any conversations
 <b><p>
 
-Contact me here anytime,
-
+# Contact me here anytime,
 <a href="https://www.instagram.com/akhilmn18/">
   <img width="40px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
 </a>
