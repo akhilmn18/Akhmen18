@@ -1,7 +1,7 @@
 # Hi there 👋
 ![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Images/Base.png)
 
-<p><b><em> I'm a Technology Enthusiast, trying to decide what to in life. I used to make Custom Roms for Moto G2 and the G5 Plus. Now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart. 
+<p><b><em> I'm a Technology Enthusiast, trying to decide what to in life. I used to make Custom Roms for Moto G2 and the G5 Plus, now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart. 
 I also make random vector wallpapers as they seem aesthetically pleasing ❤
 Conversations are my forte (Basically I love talking and listening to new and interesting stuff😜)
 Feel free to text me on Instagram for any conversations ✌
