@@ -10,7 +10,7 @@
 ### Contact me here anytime,
 <span>
   <a href="https://www.instagram.com/akhilmn18/">
-    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
+    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Base/Render_Git.gif" />
   </a>
 </span>
 <span>
