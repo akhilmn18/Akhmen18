@@ -1,5 +1,5 @@
 # Hi there 👋
-![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Images/banner2.png)
+![Banner](https://github.com/Akhmen18/Akhmen18/blob/master/Base/Render_Git.gif)
 - Lets get this out of the way, I love food and good conversations 🍕
 - I'm a Technology Enthusiast, trying to decide what to in life.
 - I used to make Custom Roms for Moto G2 and the G5 Plus, now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart.
@@ -10,7 +10,7 @@
 ### Contact me here anytime,
 <span>
   <a href="https://www.instagram.com/akhilmn18/">
-    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Base/Render_Git.gif" />
+    <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Images/instagram.png" />
   </a>
 </span>
 <span>
