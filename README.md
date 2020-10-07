@@ -1,6 +1,6 @@
 # Hi there 👋
 ![Banner](https://media.giphy.com/media/KJeenHMuaoIHpNBmyc/giphy.gif)
-<img src="https://media.giphy.com/media/KJeenHMuaoIHpNBmyc/giphy.gif" width="2650" height="896"/>
+<img src="https://media.giphy.com/media/KJeenHMuaoIHpNBmyc/giphy.gif" align="centre"/>
 - Lets get this out of the way, I love food and good conversations 🍕
 - I'm a Technology Enthusiast, trying to decide what to in life.
 - I used to make Custom Roms for Moto G2 and the G5 Plus, now just trying out the various fields in Computer Science. I love coding in a lot of different programming languages, but C++ holds a special place in my heart.
