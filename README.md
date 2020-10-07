@@ -12,6 +12,7 @@
   <a href="https://www.instagram.com/akhilmn18/">
     <img width="25px" src="https://github.com/Akhmen18/Akhmen18/blob/master/Base/instagram.png" />
   </a>
+  <h2> INSTAGRAM </h2>
 </span>
 <span>
   <a href="https://twitter.com/akhilmen18/">
