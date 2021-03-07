@@ -23,7 +23,7 @@
 <br>
 <br>
 
-[![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Akhmen18&show_icons=trueinclude_all_commits=true&show_icons=true&theme=dark&hide=issues,prs,stars,contribs&count_private=true&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
